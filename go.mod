@@ -1,4 +1,4 @@
-module github.com/jmosso/bookings
+module github.com/jmosso/bookings, modified version!
 
 go 1.16
 

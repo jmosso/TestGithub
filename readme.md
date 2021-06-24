@@ -1,4 +1,4 @@
-#Bookings and reservations
+#Bookings and reservations, a modified version!
 
 This is my repository for the app.
 
